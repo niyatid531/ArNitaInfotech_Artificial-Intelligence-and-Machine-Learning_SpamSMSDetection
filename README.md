@@ -3,12 +3,12 @@
 AI model that classifies SMS messages as spam or legitimate (ham).
 
 ## Dataset
-SMS Spam Collection — 5,572 messages (UCI / Kaggle)
+SMS Spam Collection: 5,572 messages (UCI / Kaggle)
 
 ## Models Used
-- Naive Bayes          — ROC-AUC: 0.9375
-- Logistic Regression  — ROC-AUC: 0.9633 ✅ Best
-- Linear SVM           — ROC-AUC: 0.9615
+- Naive Bayes: ROC-AUC: 0.9375
+- Logistic Regression: ROC-AUC: 0.9633 ✅ Best
+- Linear SVM: ROC-AUC: 0.9615
 
 ## Tools
 Python, scikit-learn, TF-IDF, pandas, matplotlib, seaborn
